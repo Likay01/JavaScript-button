@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@1,200&family=Poppins:ital,wght@0,200;0,300;1,300&family=Roboto:ital,wght@0,300;0,400;1,100;1,500&display=swap');
+*,
+*::after
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+     font-family: 'Poppins', sans-serif;
+}
+body{
+    background-image: url(https://content.r9cdn.net/himg/be/ae/e6/ice-39597-61804794_3XL-213017.jpg);
+    background-attachment: fixed;
+    background-size: cover ;
+    
+}
+.card{
+    background-color: rgba(255, 255, 255, 0.578);
+    margin: auto;
+    margin-top: auto;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 5rem;
+}
+img{
+    width: 15rem;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+.logo{
+    width:auto;  
+}
